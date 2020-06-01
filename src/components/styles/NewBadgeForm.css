@@ -1,0 +1,7 @@
+.new-badge-form{
+    margin-bottom: 2rem;
+    background-color: rgb(255, 255, 255);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
